@@ -1,1 +1,6 @@
-
+{
+    "versionCode": 2,
+    "versionName": "1.1",
+    "downloadUrl": "https://github.com/SeriesLatino22/lfe/releases/download/v1.1/betty_v1.1.apk",
+    "changelog": "- Nuevo sistema de caché\n- Mejor calidad de video\n- Corrección de errores\n- Nuevos episodios"
+}
