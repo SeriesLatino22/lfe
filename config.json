@@ -1,23 +1,23 @@
 {
     "versions": {
-        "uglybetty": "2",
-        "betty1999": "2",
-        "ecomoda": "2",
-        "betty2024": "2",
-        "bettytoons": "2",
-        "migorda": "2",
-        "lafea": "2"
+        "uglybetty": "1",
+        "betty1999": "1",
+        "ecomoda": "1",
+        "betty2024": "1",
+        "bettytoons": "1",
+        "migorda": "1",
+        "lafea": "1"
     },
-  {
- "enabled": true,
-         "unityGameId": "tu_unity_game_id",
-         "interstitialAdUnitId": "tu_interstitial_ad_unit_id",
-         "rewardedAdUnitId": "tu_rewarded_ad_unit_id",
-         "bannerAdUnitId": "tu_banner_ad_unit_id",
-         "liftoffAppId": "tu_liftoff_app_id",
-  "intervalMinutes": 20,
-         "testMode": false,
-         "version": "1.0",
-         "excludedActivities": ["FirstFragment"]
-     }
- }
+    "ads": {
+        "enabled": true,
+        "unityGameId": "tu_unity_game_id",
+        "interstitialAdUnitId": "tu_interstitial_ad_unit_id",
+        "rewardedAdUnitId": "tu_rewarded_ad_unit_id",
+        "bannerAdUnitId": "tu_banner_ad_unit_id",
+        "liftoffAppId": "tu_liftoff_app_id",
+        "intervalMinutes": 20,
+        "testMode": false,
+        "version": "1.0",
+        "excludedActivities": ["FirstFragment"]
+    }
+}
