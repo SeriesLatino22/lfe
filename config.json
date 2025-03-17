@@ -8,14 +8,16 @@
         "migorda": "1",
         "lafea": "1"
     },
+  {
     "adsConfig": {
         "enabled": true,
         "unityGameId": "5815852",
-        "interstitialAdUnitId": "Interstitial_Android",
-        "rewardedAdUnitId": "Rewarded_Android",
-        "bannerAdUnitId": "BANNER_NORMAL-6257945",
+        "unityInterstitialAdUnitId": "Interstitial_Android",
+        "unityRewardedAdUnitId": "Rewarded_Android",
         "liftoffAppId": "67d8449b9323fd56d1497cf8",
-        "intervalMinutes": 20,
+        "vungleInterstitialAdUnitId": "INTERSTICIAL_NORMAL-7657831",
+        "vungleRewardedAdUnitId": "RECOMPEN-3917881",
+        "intervalMinutes": 2,
         "testMode": false,
         "version": "1.0",
         "excludedActivities": ["FirstFragment"]
