@@ -8,16 +8,17 @@
         "migorda": "1",
         "lafea": "1"
     },
-    "ads": {
-        "enabled": true,
-        "unityGameId": "tu_unity_game_id",
-        "interstitialAdUnitId": "tu_interstitial_ad_unit_id",
-        "rewardedAdUnitId": "tu_rewarded_ad_unit_id",
-        "bannerAdUnitId": "tu_banner_ad_unit_id",
-        "liftoffAppId": "tu_liftoff_app_id",
-        "intervalMinutes": 20,
-        "testMode": false,
-        "version": "1.0",
-        "excludedActivities": ["FirstFragment"]
+  "adsConfig": {
+         "enabled": true,
+         "unityGameId": "5815852",
+         "unityInterstitialAdUnitId": "Interstitial_Android",
+         "unityRewardedAdUnitId": "Rewarded_Android",
+         "liftoffAppId": "67d8449b9323fd56d1497cf8",
+         "vungleInterstitialAdUnitId": "INTERSTICIAL_NORMAL-7657831",
+         "vungleRewardedAdUnitId": "RECOMPEN-3917881",
+         "intervalMinutes": 2,
+         "testMode": false,
+         "version": "1.0",
+         "excludedActivities": ["FirstFragment"]
     }
 }
