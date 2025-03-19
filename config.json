@@ -19,6 +19,5 @@
          "intervalMinutes": 2,
          "testMode": false,
          "version": "1.0",
-         "excludedActivities": ["FirstFragment"]
     }
 }
