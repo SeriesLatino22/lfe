@@ -8,16 +8,16 @@
         "migorda": "1",
         "lafea": "1"
     },
-  "adsConfig": {
-         "enabled": true,
-         "unityGameId": "5815852",
-         "unityInterstitialAdUnitId": "Interstitial_Android",
-         "unityRewardedAdUnitId": "Rewarded_Android",
-         "liftoffAppId": "67d8449b9323fd56d1497cf8",
-         "vungleInterstitialAdUnitId": "INTERSTICIAL_NORMAL-7657831",
-         "vungleRewardedAdUnitId": "RECOMPEN-3917881",
-         "intervalMinutes": 2,
-         "testMode": false,
-         "version": "1.0",
+    "adsConfig": {
+        "enabled": true,
+        "testMode": false,
+        "intervalMinutes": 2,
+        "unityGameId": "5815852",
+        "unityInterstitialAdUnitId": "Interstitial_Android",
+        "unityRewardedAdUnitId": "Rewarded_Android",
+        "liftoffAppId": "67d8449b9323fd56d1497cf8",
+        "vungleInterstitialAdUnitId": "INTERSTICIAL_NORMAL-7657831",
+        "vungleRewardedAdUnitId": "RECOMPEN-3917881",
+        "version": "1.0"
     }
 }
